@@ -1,0 +1,9 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+	int n;
+	clrscr();
+	cout<<"Enter Value:";
+	cin>>n;
+}
