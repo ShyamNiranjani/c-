@@ -15,3 +15,9 @@ void main()
 
 	getch();
 }
+
+OUTPUT:-
+			a=1000
+			::a=10
+			a=100
+			::a=10
