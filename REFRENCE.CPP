@@ -28,4 +28,9 @@ int &max(int &a,int &b)
 	else
 		return b;
 }
-
+OUTPUT:-
+		a=100	b=100
+		a=100	b=100
+		a=50	b=50
+		m=30	n=20	p=30	
+		x=10	y=30	y=30
