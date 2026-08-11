@@ -31,3 +31,14 @@ void main()
 	}
 	getch();
 }
+
+
+OUTPUT:-Enter 5 Numbers:10
+20
+30
+40
+50
+
+Enter Number Of Search:30
+
+Number Is At Postion 3
