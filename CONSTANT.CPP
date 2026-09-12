@@ -28,3 +28,9 @@ void main()
 	a1.change();
 	getch();
 }
+
+OUTPUT:-
+		Enter a:11
+
+		a=11
+		can not change
