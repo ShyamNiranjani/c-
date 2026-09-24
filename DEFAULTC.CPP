@@ -23,5 +23,5 @@ void main()
 	a1.put();
 	getch();
 }
-
- -
+OUTPUT:-Default Constructor
+		a = 0  b = 0
