@@ -27,3 +27,8 @@ void main()
 	a1.put();
 	getch();
 }
+OUTPUT:-Enter Two Numbers:1435
+		3320
+
+		Parameterizd Constructor
+		a = 1435  b = 3320
