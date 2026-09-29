@@ -41,7 +41,7 @@ string concat(string s1,string s2)
 void main()
 {
 	clrscr();
-	string s1("shah "),s2("Brijesh"),s3;
+	string s1("Niranjani"),s2("Shyam"),s3;
 
 	s3=concat(s1,s2);
 	s1.put();
@@ -49,3 +49,12 @@ void main()
 	s3.put();
 	getch();
 }
+
+OUTPUT:=
+P....
+P....
+default dynamic const
+default dynamic const
+Name = Niranjani
+Name = Shyam
+Name = Niranjani Shyam
